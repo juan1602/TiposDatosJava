@@ -5,6 +5,8 @@
 * Realiza una gestion efciiente de la memoria.
 * Distribuye la memoria en dos zonas: stack(pila) y heap (montón)
 
+![RAM](/modelo/ram.jpeg "RAM")
+
 ### Stack
 * Se alamacenan : variables locales, llamadas a métodos(parametros de resultados), variables primitivas, referencias a objetos del heap.
 * Memoria estática.
